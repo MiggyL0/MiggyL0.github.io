@@ -8,8 +8,8 @@ Very excited to be writing this first post. Still don't really know what I would
 
 Here are some things that I might talk more about in the future:
 
-- My journey is a professional (not likely)
-- My journey as an entrepreneur or least my dreams as one 😅
+- My journey as a professional (not likely)
+- My journey as an entrepreneur or at least my dreams as one 😅
 - Maybe some cool pictures or a more detailed posts on the adventures that I go on. (very likely)
 - Maybe a little bit of a diary on the process of me crafting and generally doing DIY stuff. Cause the world definitely needs another DIY blogger 😅
 

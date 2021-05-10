@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first post 😁
+title: My first post
 ---
 
 Very excited to be reading this first post :). Still don't really know what I would post here as opposed to, say on [Instagram]{https://www.instagram.com/miggyl0/} or Facebook but I'm excited to have the option!

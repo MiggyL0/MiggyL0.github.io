@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Trying my best everyday, making little improvements where I can. 😁
 
 ### More Information
 

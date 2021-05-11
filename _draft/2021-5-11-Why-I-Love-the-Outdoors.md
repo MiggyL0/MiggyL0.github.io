@@ -18,5 +18,3 @@ transition into how that affected me throughout my life
 
 and with how I intend to keep this interest and how we going. probably for the rest of my life.
 
-
-

@@ -1,6 +1,20 @@
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
+
+
 # Jekyll Now
+
+- [Quick Start](#quick-start)
+  - [Step 1) Fork Jekyll Now to your User Repository](#step-1-fork-jekyll-now-to-your-user-repository)
+  - [Step 2) Customize and view your site](#step-2-customize-and-view-your-site)
+  - [Step 3) Publish your first blog post](#step-3-publish-your-first-blog-post)
+- [Local Development](#local-development)
+- [Moar!](#moar)
+- [Jekyll Now Features](#jekyll-now-features)
+- [Questions?](#questions)
+- [Other forkable themes](#other-forkable-themes)
+- [Credits](#credits)
+- [Contributing](#contributing)
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 

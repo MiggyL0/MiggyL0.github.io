@@ -1,6 +1,6 @@
-> March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
+> March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your \_config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
-
+# MiggyLo.github.io
 
 # Jekyll Now
 
@@ -42,9 +42,9 @@ Your Jekyll blog will often be viewable immediately at <https://yourgithubuserna
 
 ### Step 2) Customize and view your site
 
-Enter your site name, description, avatar and many other options by editing the _config.yml file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here too.
+Enter your site name, description, avatar and many other options by editing the \_config.yml file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here too.
 
-Making a change to _config.yml (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon
+Making a change to \_config.yml (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon
 
 > There are 3 different ways that you can make changes to your blog's files:
 
@@ -93,13 +93,13 @@ It covers:
 ✓ Disqus commenting  
 ✓ Google Analytics integration  
 ✓ SVG social icons for your footer  
-✓ 3 http requests, including your avatar  
+✓ 3 http requests, including your avatar
 
 ✘ No installing dependencies
 ✘ No need to set up local development  
 ✘ No configuring plugins  
 ✘ No need to spend time on theming  
-✘ More time to code other things ... wait ✓!  
+✘ More time to code other things ... wait ✓!
 
 ## Questions?
 

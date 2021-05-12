@@ -1,10 +1,8 @@
 ---
 layout: post
-title: My First Post! 😁
+title: Why I Love The Outdoors
 comments: true
 ---
-
-# Why I Love The Outdoors
 
 ## Outline
 

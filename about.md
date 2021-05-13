@@ -13,7 +13,7 @@ Trying my best everyday, making little improvements where I can. 😁
 - Kayaking
 - Woodcrafting (new)
 
-I plan to write about all of these as time goes on.
+Notice how writing is not on here? To be honest, despite having this website, I struggle with writing. So if you catch spelling mistakes or would like to comment on my writing please do 😄.
 
 ## My Reading List
 

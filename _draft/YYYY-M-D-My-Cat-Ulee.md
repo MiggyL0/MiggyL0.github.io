@@ -20,7 +20,7 @@ This blog won't feature him very often, mostly because I don't take him out on a
 
 In the future, maybe after I buy a house, I can get an adventure dog instead. But no matter what happens is he still my boy 😊.
 
-![](../../images/Ulee%20Spotlight/uleeYoung.jpg)
+![](../images/Ulee%20Spotlight/uleeYoung.jpg)
 ![]
 ![]
 ![]

@@ -24,7 +24,7 @@ He's been such a great little friend for the past 2 years. He's feisty, crazy, c
 
 Anyways, here's a bunch of pictures of me and my boy in the past 2 years. I think he turns 4 around Thanksgiving. I don't know for sure since he's a rescue, so that's usually when I celebrate.
 
-This blog won't feature him very often, mostly because I don't take him out on adventures with me. I tried my best to make him an adventure cat, but in the end he just feels more comfortable and happy and crazy in his house.
+This blog won't feature him very often, mostly because I don't take him out on adventures with me much (although below I have a picture of him riding a bike 😅).  I tried my best to make him an adventure cat, but in the end he just feels more comfortable and happy and crazy in the safety of his house.
 
 ![](../images/Ulee%20Spotlight/uleeRidingBike.jpg)
 

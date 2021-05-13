@@ -13,7 +13,7 @@ This adorable little monster is my cat Ulee (OO-lee). He's a rescue cat that I g
 ![](../images/Ulee%20Spotlight/uleeYoung.jpg)
 ![](../images/Ulee%20Spotlight/uleePortrait.jpg)
 
-Now, some people might say that it's not a good idea to get an animal when you're in that kind of place. And for the most part, I agree, I wouldn't advise dumping your sadnesses and stuff like that on an animal. It's really not fair to them and there's not much that they can actually even do right?
+Now, some people might say that it's not a good idea to get an animal when you're in that kind of place. And for the most part, I agree. I wouldn't advise dumping your sadnesses and stuff like that on an animal. It's really not fair to them and there's not much that they can actually even do to help right?
 
 And yet, even if the reason for getting him might not have been the best, he's probably one of the best things that has happened to me in the past couple of years.
 

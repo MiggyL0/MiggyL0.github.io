@@ -1,8 +1,10 @@
+---
 layout: post
 title: My Cat Ulee
 comments: true
+---
 
-- [ ] add pictures of Ulee from my Google photos album.
+<!-- - [ ] add pictures of Ulee from my Google photos album. -->
 
 This adorable little monster is my cat Ulee (OO-lee). He's a rescue cat that I got when I was having a hard time with mental health about 2 years ago here in Norfolk. I thought that maybe some kind of emotional support animal would be good for my health.
 
@@ -16,4 +18,13 @@ Anyways, here's a bunch of pictures of me and my boy in the past 2 years. I thin
 
 This blog won't feature him very often, mostly because I don't take him out on adventures with me. I tried my best to make him an adventure cat, but in the end he just feels more comfortable and happy and crazy in his house.
 
-In the future, maybe after I buy a house, I can get an adventure dog instead. But no matter what happens is he still my boy😊
+In the future, maybe after I buy a house, I can get an adventure dog instead. But no matter what happens is he still my boy 😊.
+
+![](../../images/Ulee%20Spotlight/uleeYoung.jpg)
+![]
+![]
+![]
+![]
+![]
+![]
+![]

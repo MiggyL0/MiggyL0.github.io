@@ -4,18 +4,17 @@ title: My Cat Ulee
 comments: true
 ---
 
-<!-- - [ ] add pictures of Ulee from my Google photos album. -->
+
+This adorable little monster is my cat Ulee (OO-lee). He's a rescue cat that I got when I was having a hard time with mental health about 2 years ago here in Norfolk. At the time, I thought that maybe some kind of emotional support animal would be good for my health.
 
 ![](../images/Ulee%20Spotlight/holdingUlee2.jpg)
 
-This adorable little monster is my cat Ulee (OO-lee). He's a rescue cat that I got when I was having a hard time with mental health about 2 years ago here in Norfolk. I thought that maybe some kind of emotional support animal would be good for my health.
+Now, some people might say that it's not a good idea to get an animal when you're in that kind of place. And for the most part, I agree. I wouldn't advise dumping your sadnesses and stuff like that on an animal. It's really not fair to them and there's not much that they can actually even do to help right?
 
 ![](../images/Ulee%20Spotlight/uleeYoung.jpg)
 ![](../images/Ulee%20Spotlight/uleePortrait.jpg)
 
-Now, some people might say that it's not a good idea to get an animal when you're in that kind of place. And for the most part, I agree. I wouldn't advise dumping your sadnesses and stuff like that on an animal. It's really not fair to them and there's not much that they can actually even do to help right?
-
-And yet, even if the reason for getting him might not have been the best, he's one of the best things that has happened to me in the past couple of years.
+Even if the reason for getting him might not have been the best, he's one of the best things that has happened to me in the past couple of years. Even if he couldn't do anything to help solve the root of my problems, having him around was, and continues to be, so nice!
 
 ![](../images/Ulee%20Spotlight/uleeLove.jpg)
 

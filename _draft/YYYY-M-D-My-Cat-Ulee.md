@@ -31,6 +31,6 @@ In the future, maybe after I buy a house, I can get an adventure dog instead. Bu
 <!-- TODO: Talk about his friend Mason -->
 
 ![](../images/Ulee%20Spotlight/uleeAetheticCactus.jpg)
-![]
+![](../images/Ulee%20Spotlight/uleeWithMason.jpg)
 ![]
 ![]

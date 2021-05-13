@@ -16,6 +16,8 @@ Now, some people might say that it's not a good idea to get an animal when you'r
 
 And yet, even if the reason for getting him might not have been the best, he's probably one of the best things that has happened to me in the past couple of years.
 
+![](../images/Ulee%20Spotlight/uleeLove.jpg)
+
 He's been such a great little friend for the past 2 years. He's feisty, crazy, clumsy, and all sorts of energetic. I thought that as he grew older out of his young kitty cat phase he would slow down, and while it's true a little bit sometimes, he still as crazy as he was when I first got him. he cries a lot in the middle of the night and always makes stuff fall off of tables and shelves. And while I took a little while to get used to, and it frustrated a lot of the people that I've lived with, I think him and I have a really good matching personality. I have a feeling that other owners might not like him as much because he's too crazy you know? But I think that this is one of the things that makes our bond special.
 
 ![](../images/Ulee%20Spotlight/miguelUleeMask.jpg)
@@ -26,8 +28,9 @@ This blog won't feature him very often, mostly because I don't take him out on a
 
 In the future, maybe after I buy a house, I can get an adventure dog instead. But no matter what happens is he still my boy 😊.
 
-![]
-![]
+<!-- TODO: Talk about his friend Mason -->
+
+![](../images/Ulee%20Spotlight/uleeAetheticCactus.jpg)
 ![]
 ![]
 ![]

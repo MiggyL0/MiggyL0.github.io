@@ -39,12 +39,15 @@ Eventually I'd like to try a long thru hike. But, as I've come to find out recen
 - [ ] 3 day Kayak trip.
 - [ ] Climb a big buoy and do a backflip off of it.
 - [ ] Safely roll a kayak
+- [ ] Lake Moomaa 
 
 ## Climbing bucket List
 
 - [ ] Pass a Lead Climbing Test
 - [ ] Climb outside this year (2021)
 - [ ] Climb a 5.9 Lead Route
+- [ ] Visit Red River Gorge West Virginia
+- [ ] Visit New River Gorge West Virginia
 
 ## Reading List
 

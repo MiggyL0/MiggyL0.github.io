@@ -29,6 +29,7 @@ Notice how writing is not on here? To be honest, despite having this website, I 
 - [ ] Dolly Sods West Virginia
 - [ ] Natural Bridge
 - [ ] Bid Devils Stairs Trail
+- [x] Hike the Virginia Triple Crown
 
 Eventually I'd like to try a long thru hike. But, as I've come to find out recently, I might not have healthy enough knees to support it anymore. Might write more on this struggle later.
 

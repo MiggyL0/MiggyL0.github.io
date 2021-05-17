@@ -39,7 +39,7 @@ Eventually I'd like to try a long thru hike. But, as I've come to find out recen
 - [ ] 3 day Kayak trip.
 - [ ] Climb a big buoy and do a backflip off of it.
 - [ ] Safely roll a kayak
-- [ ] Lake Moomaa 
+- [ ] Lake Moomaw 😂
 
 ## Climbing bucket List
 

@@ -26,6 +26,9 @@ Notice how writing is not on here? To be honest, despite having this website, I 
 ## Hiking Wishlist
 
 - [ ] Dolly Sods West Virginia
+- [ ] Natural Bridge
+
+Eventually I'd like to try a long thru hike. But, as I've come to find out, I might not have good enough knees to support it anymore. More on this struggle later.
 
 ## Kayaking Wishlist
 

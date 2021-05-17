@@ -28,7 +28,7 @@ This blog won't feature him very often, mostly because I don't take him out on a
 
 ![](../images/Ulee%20Spotlight/uleeRidingBike.jpg)
 
-In the future, maybe after I buy a house, I can get an adventure dog instead. But no matter what happens is he still my boy 😊.
+In the future, maybe after I buy a house, I can get an adventure dog instead. But no matter what happens he is, and always will be, my boy 😊.
 
 <!-- TODO: Talk about his friend Mason -->
 

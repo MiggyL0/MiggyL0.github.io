@@ -9,8 +9,9 @@ Trying my best everyday, making little improvements where I can. 😁
 **Table of Contents**
 
 - [Hobbies](#hobbies)
-- [Hiking Wishlist](#hiking-wishlist)
-- [Kayaking Wishlist](#kayaking-wishlist)
+- [Hiking Bucket List](#hiking-bucket-list)
+- [Kayaking Bucket List](#kayaking-bucket-list)
+- [Climbing bucket List](#climbing-bucket-list)
 - [Reading List](#reading-list)
 
 ## Hobbies
@@ -23,19 +24,26 @@ Trying my best everyday, making little improvements where I can. 😁
 
 Notice how writing is not on here? To be honest, despite having this website, I struggle with writing. So if you catch spelling mistakes or would like to comment on my writing please do 😄.
 
-## Hiking Wishlist
+## Hiking Bucket List
 
 - [ ] Dolly Sods West Virginia
 - [ ] Natural Bridge
+- [ ] Bid Devils Stairs Trail
 
-Eventually I'd like to try a long thru hike. But, as I've come to find out, I might not have good enough knees to support it anymore. More on this struggle later.
+Eventually I'd like to try a long thru hike. But, as I've come to find out recently, I might not have healthy enough knees to support it anymore. Might write more on this struggle later.
 
-## Kayaking Wishlist
+## Kayaking Bucket List
 
 - [ ] Overnight camp at an island.
 - [ ] 3 day Kayak trip.
 - [ ] Climb a big buoy and do a backflip off of it.
 - [ ] Safely roll a kayak
+
+## Climbing bucket List
+
+- [ ] Pass a Lead Climbing Test
+- [ ] Climb outside this year (2021)
+- [ ] Climb a 5.9 Lead Route
 
 ## Reading List
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `Insert Title!`
+title: My Kayaking Setup
 comments: true
 ---
 

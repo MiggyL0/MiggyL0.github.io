@@ -11,7 +11,7 @@ Trying my best everyday, making little improvements where I can. 😁
 - [Hobbies](#hobbies)
 - [Hiking Bucket List](#hiking-bucket-list)
 - [Kayaking Bucket List](#kayaking-bucket-list)
-- [Climbing bucket List](#climbing-bucket-list)
+- [Climbing Bucket List](#climbing-bucket-list)
 - [Reading List](#reading-list)
 
 ## Hobbies
@@ -41,9 +41,9 @@ Eventually I'd like to try a long thru hike. But, as I've come to find out recen
 - [ ] Safely roll a kayak
 - [ ] Lake Moomaw 😂
 
-## Climbing bucket List
+## Climbing Bucket List
 
-- [ ] Pass a Lead Climbing Test
+- [x] Pass a Lead Climbing Test
 - [ ] Climb outside this year (2021)
 - [ ] Climb a 5.9 Lead Route
 - [ ] Visit Red River Gorge West Virginia
